@@ -1,0 +1,6 @@
+{
+  "name": "Real Life Adventure Game",
+  "description": "Offline-first adventure game for two sisters in New Zealand with Hong Kong Game Master Mum, featuring Form 1 & Form 3 daily maths, detective quests, movement surprises, and customizable rewards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
